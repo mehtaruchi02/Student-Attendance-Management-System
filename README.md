@@ -7,12 +7,18 @@ I have developed this as part of my Internship as a ___Student Intern___ at ___T
 
 ******Tools and Technologies******
 
-Back-end: JSP, Java Servlets (MVC- pattern), SQL 
+Back-end: JSP, Java Servlets (MVC- pattern), SQL
+
 Front-end:  HTML, CSS, Bootstrap, JSTL, JavaScript 
+
 Database: MySQL 
+
 Mobile application: Android 
+
 Libraries: iText, mySql Connector 
+
 IDE: Eclipse Mars, Android Studio 
+
 Server: Apache tomcat 
 
 ******Features (Web-application)******
@@ -26,7 +32,7 @@ Server: Apache tomcat
 * Archive and restore attendance
 * Allow students to view their attendance
 
-******Features (Mobile application)******
+******Features (Mobile application)****** 
 The sole user of the mobile application is the teacher.
 
 * Allow teachers to take/edit attendance for their respective subjects
