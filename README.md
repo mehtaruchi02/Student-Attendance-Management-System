@@ -3,17 +3,17 @@ The Maharaja Sayajirao University of Baroda Student Attendance Management System
 
 This live Web-Based Attendance System & Mobile Application is beneficial for students and teaching staff of the university.This is an attempt to remove the existing flaws in the Manual system of taking attendance.
 
-I have developed this as part of my Internship as a ___Student Intern___ at ___The Maharaja Sayajirao University of Baroda___
+I have developed this as part of my Internship as a ___Student Intern___ at ___The Maharaja Sayajirao University of Baroda___ under the guidance of my professor Mr Vishwas Raval.
 
 ******Tools and Technologies******
 
-Back-end: JSP, Java Servlets (MVC- pattern), SQL
-Front-end:  HTML, CSS, Bootstrap, JSTL, JavaScript
-Database: MySQL
-Mobile application: Android
-Libraries: iText, mySql Connector
-IDE: Eclipse Mars, Android Studio
-Server: Apache tomcat
+Back-end: JSP, Java Servlets (MVC- pattern), SQL 
+Front-end:  HTML, CSS, Bootstrap, JSTL, JavaScript 
+Database: MySQL 
+Mobile application: Android 
+Libraries: iText, mySql Connector 
+IDE: Eclipse Mars, Android Studio 
+Server: Apache tomcat 
 
 ******Features (Web-application)******
 
