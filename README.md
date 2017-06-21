@@ -1,18 +1,21 @@
 # Student-Attendance-Management-System
-The system is The Maharaja Sayajirao University of Baroda Student Attendance Management System. It is designed to automate the process of taking student attendance and generating attendance reports for the same.
+The Maharaja Sayajirao University of Baroda Student Attendance Management System is designed to automate the process of taking student attendance and generating attendance reports for the same.
 
- This is a project I had developednmas part of my Internship as a ___Student Intern___ at ___The Maharaja Sayajirao University of Baroda___
+This live Web-Based Attendance System & Mobile Application is beneficial for students and teaching staff of the university.This is an attempt to remove the existing flaws in the Manual system of taking attendance.
 
-This Web-Based Attendance System & Mobile Application is beneficial for students and teaching staff of the university.This is an attempt to remove the existing flaws in the Manual system of taking attendance.
+I have developed this as part of my Internship as a ___Student Intern___ at ___The Maharaja Sayajirao University of Baroda___
 
-******Limatations of manual system******
+******Tools and Technologies******
 
-* Difficult to maintain Attendance taken by a teacher of their respective classes and subjects.
-* Manual Student, Teacher, Faculty, Subject, Department and Course management is difficult.
-* Report Generation process is time consuming.  
+Back-end: JSP, Java Servlets (MVC- pattern), SQL
+Front-end:  HTML, CSS, Bootstrap, JSTL, JavaScript
+Database: MySQL
+Mobile application: Android
+Libraries: iText, mySql Connector
+IDE: Eclipse Mars, Android Studio
+Server: Apache tomcat
 
-
-******Features (Web-application) ******
+******Features (Web-application)******
 
 * Manage department, subject, teacher, course and student records
 * Allow teachers to take/edit attendance for their respective subjects
@@ -23,7 +26,7 @@ This Web-Based Attendance System & Mobile Application is beneficial for students
 * Archive and restore attendance
 * Allow students to view their attendance
 
-******Features (Mobile application) ******
+******Features (Mobile application)******
 The sole user of the mobile application is the teacher.
 
 * Allow teachers to take/edit attendance for their respective subjects
@@ -47,6 +50,6 @@ The sole user of the mobile application is the teacher.
   * Download attendance sheet
   * View customized attendance reports
   
- * Student
+* Student
   * View attendance per subject
   
