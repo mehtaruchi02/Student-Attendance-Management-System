@@ -5,6 +5,22 @@ This live Web-Based Attendance System & Mobile Application is beneficial for stu
 
 I have developed this as part of my Internship as a ___Student Intern___ at ___The Maharaja Sayajirao University of Baroda___ under the guidance of my professor Mr Vishwas Raval.
 
+******Mobile application******
+
+![Mobile-application](https://github.com/mehtaruchi02/Student-Attendance-Management-System/blob/master/Screenshots/Mobile-app.gif)
+
+******Admin (University head)******
+
+![Admin-application](https://github.com/mehtaruchi02/Student-Attendance-Management-System/blob/master/Screenshots/Admin.gif)
+
+******SubAdmin (Department head)******
+
+![SumAdmin-application](https://github.com/mehtaruchi02/Student-Attendance-Management-System/blob/master/Screenshots/SubAdmin.gif)
+
+******Teacher******
+
+![Teacher-application](https://github.com/mehtaruchi02/Student-Attendance-Management-System/blob/master/Screenshots/Teacher.gif)
+
 ******Tools and Technologies******
 
 Back-end: JSP, Java Servlets (MVC- pattern), SQL
